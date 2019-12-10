@@ -7,12 +7,14 @@
 采用格式:
 ```
 -----
-content:简单描述/内容
+text:简单描述/内容
 
 link:无
 
 source:solidot
 
 keyword:关键词1, 关键词2, 关键词3
+
+opinion:无
 
 ```

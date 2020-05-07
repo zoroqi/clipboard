@@ -25,3 +25,9 @@ text:X为真, 因为X有证明; X为真, 所以X有证明.
 source:我是个怪圈, 数学的一阶逻辑
 
 ---
+
+text:Unus pro omnibus, omnes pro uno. One for all, all for one. 我为人人, 人人为我. 一人は皆の為に、皆は一人の為に. Einer für alle, alle für einen.
+
+source:
+
+---

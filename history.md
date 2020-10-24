@@ -7,7 +7,7 @@ link:[Lec 01 講題：法律訴訟中的人性與試煉](https://www.youtube.com
 
 source:NCTU OCW
 
-key:法律, 公正, 正义
+key: #法律, #公正, #正义
 
 opinion:
 
@@ -23,7 +23,7 @@ link:[Lec 01 講題：法律訴訟中的人性與試煉](https://www.youtube.com
 
 source:NCTU OCW
 
-key:法律, 公正, 正义
+key: #法律, #公正, #正义
 
 opinion:无
 
@@ -35,7 +35,7 @@ link:无
 
 source:<皮皮鲁和魔方大厦 (皮皮鲁和鲁西西系列·第一辑) (郑渊洁)>
 
-key:束缚, 思想, 独裁, 枷锁, 自由, 封闭
+key: #束缚, #思想, #独裁, #枷锁, #自由, #封闭 #郑渊洁
 
 opinion:思想的束缚才是独裁统治者可以权利的根源, 所以独裁者才畏惧思想的开放.
 
@@ -47,7 +47,7 @@ link:无
 
 source:<皮皮鲁和魔方大厦 (皮皮鲁和鲁西西系列·第一辑) (郑渊洁)>
 
-key:单纯
+key: #单纯 #郑渊洁
 
 opinion:无
 
@@ -59,7 +59,7 @@ link:无
 
 source:solidot
 
-key:
+key: #利益 #贪婪 #低效
 
 opinion:无
 
@@ -70,7 +70,7 @@ link:无
 
 source:solidot
 
-key:愚蠢, 人性
+key: #愚蠢, #人性 #爱因斯坦
 
 opinion:这句话你产生自指, 这句话是不是也可以反映爱因斯坦的愚蠢.
 
@@ -81,7 +81,7 @@ link:无
 
 source:solidot(可能出自动物庄园)
 
-key:平等
+key: #平等 #奥威尔 #动物庄园
 
 opinion:无
 
@@ -92,7 +92,7 @@ link:无
 
 source:solidot
 
-key:教育, 独裁, 单一化, 简单
+key: #教育, #独裁, #单一化, #简单 #钱钟书
 
 opinion:无
 
@@ -103,7 +103,7 @@ link:无
 
 source:<1984>
 
-key:
+key: #1984 #奥威尔 #战争 #奴役 #力量
 
 opinion:无
 
@@ -114,7 +114,7 @@ link:无
 
 source:<1984>
 
-key:爱国, 虚假
+key: #爱国, #虚假 #爱国主义 #军国主义
 
 opinion:无
 
@@ -125,7 +125,7 @@ link:无
 
 source:<文学回忆录>
 
-key:
+key: #木心 #
 
 opinion:无
 
@@ -136,7 +136,7 @@ link:无
 
 source:恩格斯
 
-key:
+key: #恩格斯 #独立 #武力 #力量
 
 opinion:无
 
@@ -147,7 +147,7 @@ link:[来源](https://techcrunch.cn/2019/02/12/how-to-prepare-for-an-investment-
 
 source:阮一峰
 
-key:自动化, 开发, 优化, 思想
+key: #自动化, #开发, #优化, #思想 #程序 #流程
 
 opinion:提高自动化, 对自己增加更多自动化脚本处理
 
@@ -158,7 +158,7 @@ link:无
 
 source:<统计会犯错--如何避免数据分析中的统计陷阱>
 
-key:
+key: #错误 #漏铜 #无知 #规范
 
 opinion:
 
@@ -184,7 +184,7 @@ link:[科學最終章！宇宙大爆炸重要？還是吃飽飯重要？](https:
 
 source:柯文哲 [科學最終章！宇宙大爆炸重要？還是吃飽飯重要？](https://www.youtube.com/watch?v=FUlYCJgLF7w)
 
-key:境界, 思想
+key: #境界, #思想 #思维 #直觉
 
 opinion:
 
@@ -196,7 +196,7 @@ link:无
 
 source:李小龙
 
-key:哲学, 思想, 思考, 内求
+key: #哲学, #思想, #思考, #内求 #李小龙
 
 opinion:
 
@@ -233,7 +233,7 @@ link:无
 
 source:藤村操
 
-key:哲学, 加缪, 死亡, 诗
+key: #哲学, #加缪, #死亡, #诗 #藤村操 #岩头之感
 
 opinion:
 
@@ -244,7 +244,7 @@ link:无
 
 source:玛丽亚·杜埃尼亚斯(时间的针脚)
 
-key:
+key: #杜埃尼亚斯 #时间的针脚
 
 opinion:
 
@@ -255,7 +255,7 @@ link:无
 
 source:南波六太(宇宙兄弟)
 
-key:
+key: #宇宙兄弟 #六太
 
 opinion:
 
@@ -272,7 +272,7 @@ link:[Modes of Leadership](https://www.neobub.com/maybe/post/modes_of_leadership
 
 source:阮一峰
 
-key:
+key: #管理 #领导 #方式 #雇佣兵 #兄弟
 
 opinion:
 
@@ -283,7 +283,7 @@ link:[我的世界观](https://book.douban.com/subject/30320887/)
 
 source:爱因斯坦
 
-key:
+key: #爱国主义 #爱因斯坦 #盲从 #服从
 
 opinion: 记录与2019年9月10日, 距离大阅兵看道这句话很是应景. 到底什么是爱国这是一个美丽的词, 十分容易被误读.
 
@@ -294,7 +294,7 @@ link:[怀疑论](https://www.youtube.com/watch?v=hWxWeg7WiSo&list=PLfS0WrMWEu_72
 
 source:苑举正-怀疑论-台大公共课
 
-key:钱,肤浅
+key: #钱 #肤浅 #苑举正 #台大
 
 opinion:
 
@@ -305,7 +305,7 @@ link:
 
 source:列奥纳多·迪·皮耶罗·达·芬奇
 
-key:信仰
+key: #信仰 #达芬奇 #追求
 
 opinion:
 
@@ -316,7 +316,7 @@ link:
 
 source:季羡林 (王亚东转述)
 
-key:信仰
+key: #季羡林 #创意 #王亚东
 
 opinion:
 
@@ -327,7 +327,7 @@ link:
 
 source:王亚东
 
-key:
+key: #王亚东 #剽窃 #研究 #科研 #抄袭 积累
 
 opinion:
 
@@ -338,7 +338,7 @@ link:
 
 source:<我叫MT>第四季第七集
 
-key:
+key: #我叫MT #部落 #家人 #忠诚 #威胁
 
 opinion:
 
@@ -349,6 +349,6 @@ link:
 
 source:燃情岁月
 
-key:
+key: #传奇 #疯狂 #疯子
 
 opinion:

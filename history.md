@@ -125,7 +125,7 @@ link:无
 
 source:<文学回忆录>
 
-key: #木心 #
+key: #木心 #常用语 #废话
 
 opinion:无
 

@@ -55,3 +55,9 @@ text:
 | 六 | Ouvriers, paysans, nous sommes<br/>Le grand parti des travailleurs ;<br/>La terre n'appartient qu'aux hommes,<br/>L'oisif ira loger ailleurs.<br/>Combien de nos chairs se repaissent !<br/>Mais si les corbeaux, les vautours,<br/>Un de ces matins disparaissent,<br/>Le soleil brillera toujours !<br/><br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain.<br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain. | 是谁创造了人类世界？<br/>是我们劳动群众！<br/>一切归劳动者所有，<br/>哪能容得寄生虫？！<br/>最可恨那些毒蛇猛兽，<br/>吃尽了我们的血肉！<br/>一旦把它们消灭干净，<br/>鲜红的太阳照遍全球！<br/><br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！<br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！ |
 
 source: 国际歌
+
+---
+
+text: 古之人損一毫利天下，不與也；悉天下奉一身，不取也。人人不損一毫，人人不利天下，天下治矣。
+
+source: 杨朱
